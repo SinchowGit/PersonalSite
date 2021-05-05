@@ -4,6 +4,10 @@ body{
   color: #545454;
 }
 
+p{
+  line-height: 1.5;
+}
+
 .Top-Container {
   padding-top: 200px;
   margin: 0;
@@ -57,7 +61,8 @@ h2 , h3{
 }
 
 .Hello p{
-  font-size: 1em;
+  margin: auto;
+  width: 30%;
 }
 
 /* .......................................................................... */
@@ -97,7 +102,13 @@ h2 , h3{
   padding: 100px;
 }
 
+.contact-me p{
+  width: 40%;
+  margin: 30px auto;
+}
+
 .btn{
+  width: 10%;
   border: solid 1px;
   border-radius: 20px;
   color: #F3F2F1;
