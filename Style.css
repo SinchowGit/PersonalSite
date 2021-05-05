@@ -127,3 +127,8 @@ h2 , h3{
   padding: 50px;
   background: #E0EBE8;
 }
+
+.Footer p{
+  margin: 30px auto;
+  width: 30%;
+}
